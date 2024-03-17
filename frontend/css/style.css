@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+.list-group li {
+  margin-bottom: 20px;
+}
+.list-group li h4 {
+  color: white;
+}
